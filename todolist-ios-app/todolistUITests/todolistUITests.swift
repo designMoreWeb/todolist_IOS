@@ -2,8 +2,7 @@
 //  todolistUITests.swift
 //  todolistUITests
 //
-//  Created by JOGENDRA on 28/02/17.
-//  Copyright © 2017 Jogendra Singh. All rights reserved.
+// 
 //
 
 import XCTest
